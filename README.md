@@ -1,2 +1,3 @@
 # slipp
-Q&amp;A
+
+spring mvc 공부 관련 프로젝트
