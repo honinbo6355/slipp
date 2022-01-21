@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   
   <properties>
-  	<h2.database.version>1.4.181</h2.database.version>
+  	<h2.database.version>2.1.210</h2.database.version>
   	<org.springframework.version>4.3.14.RELEASE</org.springframework.version>
   </properties>
   
